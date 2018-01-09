@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Goku",
+    "image": "https://pre00.deviantart.net/4cb8/th/pre/f/2013/121/b/7/goku_byuzne_by_uzne-d6036t6.png",
+    "click": false
+  },
+  {
+    "id": 2,
+    "name": "Vegeta",
+    "image": "http://images1.wikia.nocookie.net/__cb20130802141756/villains/images/e/e3/Scouter_vegeta.png",
+    "click": false
+  },
+  {
+    "id": 3,
+    "name": "Gohan",
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/2/21/Gohan_del_futuro_trans.png/revision/latest?cb=20150122014639&path-prefix=es",
+    "click": false
+  },
+  {
+    "id": 4,
+    "name": "Trunks",
+    "image": "https://i.pinimg.com/originals/56/09/20/560920e49fb06899d1f0b7c276125348.png",
+    "click": false
+  },
+  {
+    "id": 5,
+    "name": "Piccolo",
+    "image": "https://i.pinimg.com/originals/89/de/70/89de70e304a6eefbb34ed5b26dd91b21.png",
+    "click": false
+  },
+  {
+    "id": 6,
+    "name": "Majin Boo",
+    "image": "https://vignette.wikia.nocookie.net/dbz-vs/images/9/92/Majin_buu.png/revision/latest?cb=20151115154539",
+    "click": false
+  },
+  {
+    "id": 7,
+    "name": "Cell",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/b/b8/Cell.png/revision/latest?cb=20130929044604",
+    "click": false
+  },
+  {
+    "id": 8,
+    "name": "Frieza",
+    "image": "https://vignette3.wikia.nocookie.net/dragonball/images/9/9a/Frieza_Universe_Survival.png/revision/latest?cb=20170514130810",
+    "occupation": "Ladies Man",
+    "click": false
+  },
+  {
+    "id": 9,
+    "name": "Satan",
+    "image": "https://i.pinimg.com/originals/cd/78/3e/cd783eb3b79ca36dcec38939d09adf5d.png",
+    "click": false
+  },
+  {
+    "id": 10,
+    "name": "Beerus",
+    "image": "https://otakukart.com/wp-content/uploads/2017/07/Beerus-Dragon-Ball-Super.png",
+    "click": false
+  },
+  {
+    "id": 11,
+    "name": "Krillin",
+    "image": "https://img00.deviantart.net/5583/i/2011/328/b/1/vectorscan_044___krilin_001_by_vicdbz-d2xx684.png",
+    "click": false
+  },
+  {
+    "id": 12,
+    "name": "Bulma",
+    "image": "https://orig00.deviantart.net/540e/f/2012/050/e/d/dragon_ball_bulma_by_momosexes-d4q90px.png",
+    "click": false
+  }
+]

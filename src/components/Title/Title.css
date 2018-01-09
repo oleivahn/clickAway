@@ -1,0 +1,14 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  /* text-decoration: underline; */
+  color: #fff;
+  /* margin-bottom: 50px; */
+  background-color: #FE6A68;
+  line-height: 5rem;
+}
+
+.cont {
+    width: 100%;
+}
